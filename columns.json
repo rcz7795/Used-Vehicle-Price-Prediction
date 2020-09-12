@@ -1,0 +1,13 @@
+{"fuel": ["diesel", "electric", "gas", "hybrid", "other"],
+  "title": ["clean", "lien", "missing", "parts only", "rebuilt", "salvage"],
+  "transmission": ["automatic", "manual", "other"],
+  "drive": ["Forward", "Rewind"],
+  "car_type": ["Other", "SUV", "bus", "convertible", "coupe", "hatchback", "mini-van", "offroad", "other", "pickup", "sedan", "truck", "van", "wagon"],
+
+  "data_columns": ["diesel", "electric", "gas", "hybrid",
+    "clean", "lien", "missing", "parts only", "rebuilt",
+    "automatic", "manual",
+    "Forward",
+    "Other", "SUV", "bus", "convertible", "coupe", "hatchback", "mini-van", "offroad", "other", "pickup", "sedan", "truck", "van",
+    "cylinders", "odometer", "Description Length", "Age"]
+}
